@@ -33,3 +33,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/gabrielresplandes/gabrielresplandes/output/snake.svg" alt="Snake animation" />
+
+###
