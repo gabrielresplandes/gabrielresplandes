@@ -14,9 +14,8 @@
 ###
 
 <div align="left">
-  <img src="https://discord.gg/B8Sdnp5jy5" width="52" height="40" alt="discord logo"  />
-  <img src="instagram.com/gb_moraiis" width="52" height="40" alt="instagram logo"  />
-  <img src="mailto:gabrielresplandes07@gmail.com" width="52" height="40" alt="gmail logo"  />
+  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg](https://discord.gg/pQz9Ja4YTe)" width="52" height="40" alt="discord logo"  />
+  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://instagram.com/gb_moraiis)" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
